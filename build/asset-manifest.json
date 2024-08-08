@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/victor_personal_portfolio/static/css/main.6835f868.css",
+    "main.js": "/victor_personal_portfolio/static/js/main.b84f0ce4.js",
+    "index.html": "/victor_personal_portfolio/index.html",
+    "main.6835f868.css.map": "/victor_personal_portfolio/static/css/main.6835f868.css.map",
+    "main.b84f0ce4.js.map": "/victor_personal_portfolio/static/js/main.b84f0ce4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6835f868.css",
+    "static/js/main.b84f0ce4.js"
+  ]
+}
